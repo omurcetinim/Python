@@ -1,0 +1,2 @@
+para_birimi="TL"                       #para_birimi adından metinsel veri aktarıldı
+print(type(para_birimi) )              #typ fonksiyonu ile para_birimi adından metinsel veri değişkeni ekrana yazdırıldı
